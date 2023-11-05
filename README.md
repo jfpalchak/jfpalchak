@@ -1,8 +1,8 @@
 ### Hello there 👋
 
 
-&nbsp;&nbsp;&nbsp;🌱 &nbsp; I’m currently adding C#/.NET to my toolbox.\
-&nbsp;&nbsp;&nbsp;💕 &nbsp; Passionate about problem solving and unit testing.\
+&nbsp;&nbsp;&nbsp;🌱 &nbsp; Currently adding C#/.NET and React to my toolbox.\
+&nbsp;&nbsp;&nbsp;💕 &nbsp; Strong feelings for good documentation and unit testing.\
 &nbsp;&nbsp;&nbsp;🍄 &nbsp; Residing in Portland, OR, with my partner and our dog.
 
 <p align="center">
