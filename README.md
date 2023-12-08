@@ -1,7 +1,6 @@
 ### Hello there 👋
 
-
-&nbsp;&nbsp;&nbsp;🌱 &nbsp; Currently adding C#/.NET and React to my toolbox.\
+&nbsp;&nbsp;&nbsp;🌱 &nbsp; Currently playing with TypeScript, React, and C#/.NET.\
 &nbsp;&nbsp;&nbsp;💕 &nbsp; Strong feelings for good documentation and unit testing.\
 &nbsp;&nbsp;&nbsp;🍄 &nbsp; Residing in Portland, OR, with my partner and our dog.
 
